@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "iterativelinearsolvers": "cpp",
+        "*.inc": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "unordered_map": "cpp",
+        "fstream": "cpp",
+        "numeric": "cpp",
+        "sstream": "cpp",
+        "any": "cpp",
+        "optional": "cpp",
+        "petsc.h": "c",
+        "unistd.h": "c",
+        "poissonfunctions.h": "c",
+        "petscbag.h": "c",
+        "petscsys.h": "c",
+        "petscsystypes.h": "c",
+        "complex.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
